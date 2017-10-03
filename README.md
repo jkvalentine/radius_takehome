@@ -1,1 +1,1 @@
-<align='center'>Data Science Take Home for Radius</align>
+Data Science Take Home for Radius
